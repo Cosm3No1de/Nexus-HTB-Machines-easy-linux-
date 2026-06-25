@@ -209,9 +209,20 @@ Este proyecto se distribuye bajo la licencia MIT.
 📧 Contacto
 GitHub: cosmenoide
 
-HackTheBox: cosm3no1de
+```markdown
+<p align="center">
+  <img src="https://img.shields.io/badge/HackTheBox-cosm3no1de-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white">
+</p>
 
-<p align="center"> <img src="https://img.shields.io/badge/made%20with-❤️-red?style=for-the-badge"> <img src="https://img.shields.io/badge/by-cosmenoide_dev-blue?style=for-the-badge"> </p>
-"El conocimiento es poder, pero la ejecución es todo."
+---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/made%20with-❤️-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/by-cosmenoide_dev-blue?style=for-the-badge">
+</p>
+
+<p align="center">
+  <em>"El conocimiento es poder, pero la ejecución es todo."</em>
+</p>
+```
 
