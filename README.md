@@ -209,20 +209,7 @@ Este proyecto se distribuye bajo la licencia MIT.
 📧 Contacto
 GitHub: cosmenoide
 
-```markdown
-<p align="center">
-  <img src="https://img.shields.io/badge/HackTheBox-cosm3no1de-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white">
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/made%20with-❤️-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/by-cosmenoide_dev-blue?style=for-the-badge">
-</p>
-
-<p align="center">
-  <em>"El conocimiento es poder, pero la ejecución es todo."</em>
-</p>
-```
+📢 Conéctate Conmigo
+<p align="center"> <a href="https://linktr.ee/cosmenoide" target="_blank"> <img src="https://img.shields.io/badge/Linktree-cosmenoide-43E660?style=for-the-badge&logo=linktree&logoColor=white"> </a> <a href="https://github.com/cosmenoide" target="_blank"> <img src="https://img.shields.io/badge/GitHub-cosmenoide-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.hackthebox.com/profile/your-profile" target="_blank"> <img src="https://img.shields.io/badge/HackTheBox-cosm3no1de-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"> </a> </p>
+<p align="center"> <img src="https://img.shields.io/badge/made%20with-❤️-red?style=for-the-badge"> <img src="https://img.shields.io/badge/by-cosmenoide_dev-blue?style=for-the-badge"> </p><p align="center"> <em>"El conocimiento es poder, pero la ejecución es todo."</em> </p> ```
 
